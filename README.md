@@ -19,7 +19,6 @@ Some features:
 5-Cliking on video area turn sound on/off if you need to hear the sound acutally. 
 6- X on top right allow you to clear all setting and start over.
 [Screenshots]
-(image0.png)
-(image1.png)
-(image2.png)
-(image3.png)
+![Screenshot](image0.png)
+![Screenshot](image1.png)
+![Screenshot](image2.png)
