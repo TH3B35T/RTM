@@ -18,7 +18,11 @@ Some features:
 4-Audio levels can be seen per video and they reprecent real time audio data; really short bar means low sound, high audio bar with red top means noise or really high sound.
 5-Cliking on video area turn sound on/off if you need to hear the sound acutally. 
 6- X on top right allow you to clear all setting and start over.
-[Screenshots]
+
+[Screenshots] !From private server!
+
 ![Screenshot](image0.png)
+
 ![Screenshot](image1.png)
+
 ![Screenshot](image2.png)
